@@ -14,7 +14,7 @@ $(window).load(function() {
 
         $('#vegas-background').vegas({
             slides: [
-                { src: 'img/slide-1.jpg' },
+                { src: 'https://k279l31sbw-flywheel.netdna-ssl.com/wp-content/uploads/2019/01/DSC_2408-classroom-SFW-1.jpg' },
                 { src: 'img/slide-2.jpg' },
                 { src: 'img/slide-3.jpg' },
             ],
