@@ -15,8 +15,8 @@ $(window).load(function() {
         $('#vegas-background').vegas({
             slides: [
                 { src: 'https://k279l31sbw-flywheel.netdna-ssl.com/wp-content/uploads/2019/01/DSC_2408-classroom-SFW-1.jpg' },
-                { src: 'img/slide-2.jpg' },
-                { src: 'img/slide-3.jpg' },
+                { src: 'https://thumbs.dreamstime.com/b/elementary-school-building-backside-sunny-spring-day-171268442.jpg' },
+                { src: 'https://catholic-foundation.org/wp-content/uploads/2016/07/athletic-signing2017-1920x1980-SFW-1024x576.jpg' },
             ],
 
             // Delay beetween slides in milliseconds.
